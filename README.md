@@ -2,6 +2,8 @@
 
 This profile only touches color settings unlike other profile templates on the web.
 
+![texstudio dark](./texstudio_dark.png)
+
 ## Usage
 
 Backup your TeXstudio settings: In TeXStudio, click Options &rarr; Save Profile &rarr; original.txsprofile
